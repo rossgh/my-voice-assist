@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5050a9aa-5bfd-4f6c-8fda-07fda1e690a8/resourceGroups/appsvc_linux_eastus2_premium/providers/Microsoft.Web/sites/my-voice-assistant",
+    "appService.deploySubpath": "."
+}
